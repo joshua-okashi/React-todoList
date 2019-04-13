@@ -1,8 +1,3 @@
-.App {
-  text-align: center;
-}
-
-
 
 .App-header {
   background-color: #282c34;
@@ -10,8 +5,66 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(8px + 2vmin);
   color: white;
 }
+.contains {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5vh;
+  /* border: 1px solid red; */
+}
+.contains h1 {
+  font-size: 5vh;
+}
+.contains h1 button {
+  font-size: 1vh;
+  margin-left: 2vh;
+}
 
+.inputWrapper {
+  /* border: 1px solid red; */
+  margin-top: 4vh;
+  margin-bottom: 2vh;
+  box-shadow: 6px 9px 11px -1px rgba(212,212,212,0.2);
+}
+
+.inputWrapper .TodoInput {
+  width: 55vh;
+  height: 5vh;
+  padding-left: 4vh;
+}
+
+.todoList {
+  /* border: 1px solid red; */
+}
+.todoList > li {
+  /* border: 1px solid red; */
+  margin-top: 2vh;
+  padding: 1vh;
+  width: 56vh;
+  box-shadow: 6px 9px 11px -1px rgba(212,212,212,0.2);
+}
+.todoList > li:nth-child(odd){
+  background-color: #6699ff;
+}
+.todoList > li:nth-child(even) {
+  background-color: #ff9966;
+}
+
+.todoList > li > .todoContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todoList > li > .todoContent .title {
+  margin-left: 3vh;
+}
+
+.todoList > li > .todoContent button {
+  font-size: 2vh;
+  border-radius: 12%;
+  background-color: #4caef0;
+}

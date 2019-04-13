@@ -1,0 +1,52 @@
+.UserDialog-Wrapper{ 
+  position: fixed; 
+  top: 0; left: 0;
+  bottom: 0; 
+  right: 0; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  
+}
+.UserDialog {
+  border: 1px solid;
+  border-radius: 1vh;
+  min-width: 48vh;
+  border: 1px solid #aaa;
+  background-color: #2c3e50;
+
+}
+.UserDialog .signInOrSignUp > nav:first-child{ 
+  padding: 2vh; 
+  margin-left: 5vh;
+}
+.UserDialog .signInOrSignUp > nav:first-child label{ 
+  margin-left: 6vh; 
+  cursor: pointer;
+}
+.UserDialog .forgotPassword > h3 {
+   padding: 1vh;
+}
+.UserDialog form>.row{ 
+  display: flex; 
+  padding: 0.8vh 0; 
+}
+.UserDialog form>.row>label:first-child{
+   width: 10vh; 
+  }
+.UserDialog form>.row.actions{ 
+  padding-left: 10vh; 
+  display: flex; 
+  align-items: center;
+ 
+}
+
+.UserDialog form>.row.actions a {
+  margin-left: 2vh;
+  color: #fff;
+}
+
+.UserDialog button{
+  font: inherit; 
+  padding: 1vh;
+}

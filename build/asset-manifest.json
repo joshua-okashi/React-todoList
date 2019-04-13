@@ -1,14 +1,15 @@
 {
-  "main.css": "/React-todoList/build/static/css/main.2f792541.chunk.css",
-  "main.js": "/React-todoList/build/static/js/main.e49d0ac9.chunk.js",
-  "main.js.map": "/React-todoList/build/static/js/main.e49d0ac9.chunk.js.map",
-  "runtime~main.js": "/React-todoList/build/static/js/runtime~main.fba5ff58.js",
-  "runtime~main.js.map": "/React-todoList/build/static/js/runtime~main.fba5ff58.js.map",
-  "static/js/2.c272f57a.chunk.js": "/React-todoList/build/static/js/2.c272f57a.chunk.js",
-  "static/js/2.c272f57a.chunk.js.map": "/React-todoList/build/static/js/2.c272f57a.chunk.js.map",
+  "main.css": "/React-todoList/build/static/css/main.259c8e74.chunk.css",
+  "main.js": "/React-todoList/build/static/js/main.d0148ae7.chunk.js",
+  "main.js.map": "/React-todoList/build/static/js/main.d0148ae7.chunk.js.map",
+  "runtime~main.js": "/React-todoList/build/static/js/runtime~main.b5f88c12.js",
+  "runtime~main.js.map": "/React-todoList/build/static/js/runtime~main.b5f88c12.js.map",
+  "static/css/2.810a80df.chunk.css": "/React-todoList/build/static/css/2.810a80df.chunk.css",
+  "static/js/2.8c4b5d0d.chunk.js": "/React-todoList/build/static/js/2.8c4b5d0d.chunk.js",
+  "static/js/2.8c4b5d0d.chunk.js.map": "/React-todoList/build/static/js/2.8c4b5d0d.chunk.js.map",
   "index.html": "/React-todoList/build/index.html",
-  "precache-manifest.b216c1d8e956414ab0ff828be1ad850f.js": "/React-todoList/build/precache-manifest.b216c1d8e956414ab0ff828be1ad850f.js",
+  "precache-manifest.089fe649b8e05709f43a8ca7e2712529.js": "/React-todoList/build/precache-manifest.089fe649b8e05709f43a8ca7e2712529.js",
   "service-worker.js": "/React-todoList/build/service-worker.js",
-  "static/css/main.2f792541.chunk.css.map": "/React-todoList/build/static/css/main.2f792541.chunk.css.map",
-  "static/media/logo.svg": "/React-todoList/build/static/media/logo.5d5d9eef.svg"
+  "static/css/2.810a80df.chunk.css.map": "/React-todoList/build/static/css/2.810a80df.chunk.css.map",
+  "static/css/main.259c8e74.chunk.css.map": "/React-todoList/build/static/css/main.259c8e74.chunk.css.map"
 }
